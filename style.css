@@ -300,4 +300,7 @@ ion-icon {
     margin: 60px 15px 0 15px;
     /*width: 624px;*/
   }
+  .stories{
+    margin-bottom: 5px;
+  }
 }
