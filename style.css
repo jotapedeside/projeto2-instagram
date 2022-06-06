@@ -155,10 +155,10 @@ ion-icon {
   margin: 88px 15px 0 15px;
   /*width: 624px;*/
 }
-.content > *{
-  /* BORDAS NÃO PODEM SER ESPREMIDAS
-  margin: 20px 25px;*/
-}
+/*.content > *{
+  /*BORDAS NÃO PODEM SER ESPREMIDAS
+  margin: 20px 25px;
+}*/
 .arrow-icon{
   color: #FFFFFF;
   position: absolute;
@@ -291,5 +291,13 @@ ion-icon {
     width: 100px;
     height: 30px;
     display: initial;
+  }
+  .bg-color-changer{
+    background-color: #FAFAFA;
+    border: none;
+  }
+  .content{
+    margin: 60px 15px 0 15px;
+    /*width: 624px;*/
   }
 }
